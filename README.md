@@ -1,0 +1,1 @@
+本範本參考自：https://github.com/twtrubiks/line-bot-tutorial 加以修改
